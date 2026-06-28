@@ -55,5 +55,5 @@ This project was developed as part of my Machine Learning and Data Analytics lea
 
 ## 👩‍💻 Author
 
-Vaishnavi Yad  
+Varshini A S
 GitHub: https://github.com/asvarshini
